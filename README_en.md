@@ -6,8 +6,9 @@ Single Board Computer Software for 3D Printing
 
 ### Installation
 
-1. Download the image corresponding to your single board computer and extract it and use [balenaEatcher](https://www.balena.io/etcher/) to write the image to the card
-1. Insert the card into your single board computer, connect the display, and you can also connect the mouse and keyboard if necessary
+1. Download and extract the SmartPrinter3D image corresponding to your single board computer
+1. Use [balenaEatcher](https://www.balena.io/etcher/) to burn the image to SD card
+1. Insert an SD card into your single board computer, connect a display, and you can also connect a mouse and keyboard if necessary
 1. Connect your 3D printer to the single board computer via USB port
 1. Turn on the single board computer and wait for the system to start
 
