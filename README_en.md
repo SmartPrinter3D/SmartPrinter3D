@@ -4,6 +4,8 @@ Single Board Computer Software for 3D Printing
 
 ## Getting Started
 
+**This software works with 3D printers running Marlin firmware. With 3D printers on other firmware, correct operation is not guaranteed**
+
 ### Installation
 
 1. Download and extract the SmartPrinter3D image corresponding to your single board computer
