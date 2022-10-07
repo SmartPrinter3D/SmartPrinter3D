@@ -11,6 +11,7 @@ Single Board Computer Software for 3D Printing
 1. Insert an SD card into your single board computer, connect a display, and you can also connect a mouse and keyboard if necessary
 1. Connect your 3D printer to the single board computer via USB port
 1. Turn on the single board computer and wait for the system to start
+1. Make sure the `AUTO_REPORT_TEMPERATURES` and `EXTENDED_CAPABILITIES_REPORT` lines are uncommented in the Marlin firmware. Otherwise, temperatures will not be displayed correctly
 
 ### Initial setup
 1. On the main page, click the ```Settings``` button and in the ```Language``` section, select the system language that suits you
