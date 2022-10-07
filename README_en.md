@@ -2,8 +2,6 @@
 
 Single Board Computer Software for 3D Printing
 
-Download: https://drive.google.com/drive/folders/1-lluD5OzGuVtUxNPK4p_CFjx46Jv-Jci?usp=sharing
-
 ## Getting Started
 
 **This software works with 3D printers running Marlin firmware. With 3D printers on other firmware, correct operation is not guaranteed**
